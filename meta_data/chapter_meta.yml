@@ -1,0 +1,15 @@
+shortname: EBM demo
+type: standalone chapter
+thumbnail: logo.png
+parts:
+  - caption: EBM demo
+    chapters:
+      - shortname: EBMdemo
+        filename: ebm_demo
+        thumbnail: logo.png
+        tags:
+          domains:
+            - energy balance model
+          packages:
+            - paleobeasts
+      
